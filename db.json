@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Cat Toy",
+      "image": "https://s7d2.scene7.com/is/image/PetSmart/5264304",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Toy Soldier",
+      "image": "https://static01.nyt.com/images/2019/10/09/multimedia/00xp-toysoldiers9/00xp-toysoldiers9-mobileMasterAt3x-v2.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Toy Soldier",
+      "image": "https://static01.nyt.com/images/2019/10/09/multimedia/00xp-toysoldiers9/00xp-toysoldiers9-mobileMasterAt3x-v2.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
